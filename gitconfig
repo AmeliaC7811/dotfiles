@@ -51,7 +51,7 @@
   rebase = false
 [user]
 	email = mao08873@gtiit.edu.cn
-	name = AmeliaC7811
+	name = maoyuxuan
 [filter "lfs"]
 	clean = git-lfs clean -- %f
 	smudge = git-lfs smudge -- %f
